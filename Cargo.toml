@@ -1,0 +1,7 @@
+[package]
+name = "christmas_challenges"
+version = "0.1.0"
+authors = ["Lisa Vitolo <syn.shainer@gmail.com>"]
+
+[dependencies]
+bcrypt = "0.1.5"
